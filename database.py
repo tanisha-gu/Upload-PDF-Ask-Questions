@@ -1,5 +1,5 @@
 import sqlite3
-
+#here is my code for database it's just a try to to make and use 
 DATABASE = "askme.db"
 
 def init_db():
