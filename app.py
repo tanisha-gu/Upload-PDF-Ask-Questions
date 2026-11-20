@@ -11,7 +11,7 @@ from langchain.llms import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()  # Load environment variables from .env file
-
+#flask of data 
 app = Flask(__name__)
 DATABASE = "askme.db"
 UPLOAD_FOLDER = "uploads"
